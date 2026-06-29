@@ -1,16 +1,5 @@
 google.com, pub-3732174456707339, DIRECT, f08c47fec0942fa0
 
-mars.media, 1010442, RESELLER
-video.unrulymedia.com, 389957698, RESELLER
-video.unrulymedia.com, 657436911, RESELLER
-video.unrulymedia.com, 905340553, RESELLER
-video.unrulymedia.com, 144138083, RESELLER
-video.unrulymedia.com, 703273072, RESELLER
-video.unrulymedia.com, 290726769, RESELLER
-inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
-xandr.com, 17779, RESELLER
-xandr.com, 13799, RESELLER
-xandr.com, 15840, RESELLER
 targetbetter.com, 82228, RESELLER
 themediagrid.com, FALINO, RESELLER, 9fac4a4a87c2a44f
 Media.net, 8CUH46N56, RESELLER
@@ -167,3 +156,14 @@ odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
 onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
 conversantmedia.com, 41024, RESELLER, 03113cd04947736d
 programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
+mars.media, 1010442, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
+video.unrulymedia.com, 905340553, RESELLER
+video.unrulymedia.com, 144138083, RESELLER
+video.unrulymedia.com, 703273072, RESELLER
+video.unrulymedia.com, 290726769, RESELLER
+inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
+xandr.com, 17779, RESELLER
+xandr.com, 13799, RESELLER
+xandr.com, 15840, RESELLER
